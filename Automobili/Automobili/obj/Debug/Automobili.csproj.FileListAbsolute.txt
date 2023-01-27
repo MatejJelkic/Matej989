@@ -1,0 +1,8 @@
+C:\Users\38595\source\repos\Matej989\Automobili\Automobili\bin\Debug\Automobili.exe.config
+C:\Users\38595\source\repos\Matej989\Automobili\Automobili\bin\Debug\Automobili.exe
+C:\Users\38595\source\repos\Matej989\Automobili\Automobili\bin\Debug\Automobili.pdb
+C:\Users\38595\source\repos\Matej989\Automobili\Automobili\obj\Debug\Automobili.csproj.AssemblyReference.cache
+C:\Users\38595\source\repos\Matej989\Automobili\Automobili\obj\Debug\Automobili.csproj.SuggestedBindingRedirects.cache
+C:\Users\38595\source\repos\Matej989\Automobili\Automobili\obj\Debug\Automobili.csproj.CoreCompileInputs.cache
+C:\Users\38595\source\repos\Matej989\Automobili\Automobili\obj\Debug\Automobili.exe
+C:\Users\38595\source\repos\Matej989\Automobili\Automobili\obj\Debug\Automobili.pdb

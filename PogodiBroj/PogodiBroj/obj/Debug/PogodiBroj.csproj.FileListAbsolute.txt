@@ -1,0 +1,8 @@
+C:\Users\38595\source\repos\Matej989\PogodiBroj\PogodiBroj\bin\Debug\PogodiBroj.exe.config
+C:\Users\38595\source\repos\Matej989\PogodiBroj\PogodiBroj\bin\Debug\PogodiBroj.exe
+C:\Users\38595\source\repos\Matej989\PogodiBroj\PogodiBroj\bin\Debug\PogodiBroj.pdb
+C:\Users\38595\source\repos\Matej989\PogodiBroj\PogodiBroj\obj\Debug\PogodiBroj.csproj.AssemblyReference.cache
+C:\Users\38595\source\repos\Matej989\PogodiBroj\PogodiBroj\obj\Debug\PogodiBroj.csproj.SuggestedBindingRedirects.cache
+C:\Users\38595\source\repos\Matej989\PogodiBroj\PogodiBroj\obj\Debug\PogodiBroj.csproj.CoreCompileInputs.cache
+C:\Users\38595\source\repos\Matej989\PogodiBroj\PogodiBroj\obj\Debug\PogodiBroj.exe
+C:\Users\38595\source\repos\Matej989\PogodiBroj\PogodiBroj\obj\Debug\PogodiBroj.pdb

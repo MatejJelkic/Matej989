@@ -1,0 +1,15 @@
+C:\Users\38595\source\repos\Matej989\TestAutomationSelenium\TestAutomationSelenium\bin\Debug\selenium-manager\linux\selenium-manager
+C:\Users\38595\source\repos\Matej989\TestAutomationSelenium\TestAutomationSelenium\bin\Debug\selenium-manager\macos\selenium-manager
+C:\Users\38595\source\repos\Matej989\TestAutomationSelenium\TestAutomationSelenium\bin\Debug\selenium-manager\windows\selenium-manager.exe
+C:\Users\38595\source\repos\Matej989\TestAutomationSelenium\TestAutomationSelenium\bin\Debug\TestAutomationSelenium.exe.config
+C:\Users\38595\source\repos\Matej989\TestAutomationSelenium\TestAutomationSelenium\bin\Debug\TestAutomationSelenium.exe
+C:\Users\38595\source\repos\Matej989\TestAutomationSelenium\TestAutomationSelenium\bin\Debug\TestAutomationSelenium.pdb
+C:\Users\38595\source\repos\Matej989\TestAutomationSelenium\TestAutomationSelenium\bin\Debug\WebDriver.dll
+C:\Users\38595\source\repos\Matej989\TestAutomationSelenium\TestAutomationSelenium\obj\Debug\TestAutomationSelenium.csproj.AssemblyReference.cache
+C:\Users\38595\source\repos\Matej989\TestAutomationSelenium\TestAutomationSelenium\obj\Debug\TestAutomationSelenium.csproj.SuggestedBindingRedirects.cache
+C:\Users\38595\source\repos\Matej989\TestAutomationSelenium\TestAutomationSelenium\obj\Debug\TestAutomationSelenium.csproj.CoreCompileInputs.cache
+C:\Users\38595\source\repos\Matej989\TestAutomationSelenium\TestAutomationSelenium\obj\Debug\TestAutomationSelenium.csproj.CopyComplete
+C:\Users\38595\source\repos\Matej989\TestAutomationSelenium\TestAutomationSelenium\obj\Debug\TestAutomationSelenium.exe
+C:\Users\38595\source\repos\Matej989\TestAutomationSelenium\TestAutomationSelenium\obj\Debug\TestAutomationSelenium.pdb
+C:\Users\38595\source\repos\Matej989\TestAutomationSelenium\TestAutomationSelenium\bin\Debug\nunit.framework.dll
+C:\Users\38595\source\repos\Matej989\TestAutomationSelenium\TestAutomationSelenium\bin\Debug\nunit.framework.xml

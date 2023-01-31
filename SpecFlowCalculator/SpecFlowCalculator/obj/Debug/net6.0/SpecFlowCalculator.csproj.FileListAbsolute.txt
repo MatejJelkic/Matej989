@@ -1,0 +1,14 @@
+C:\Users\38595\source\repos\Matej989\SpecFlowCalculator\SpecFlowCalculator\bin\Debug\net6.0\SpecFlowCalculator.deps.json
+C:\Users\38595\source\repos\Matej989\SpecFlowCalculator\SpecFlowCalculator\bin\Debug\net6.0\SpecFlowCalculator.dll
+C:\Users\38595\source\repos\Matej989\SpecFlowCalculator\SpecFlowCalculator\bin\Debug\net6.0\SpecFlowCalculator.pdb
+C:\Users\38595\source\repos\Matej989\SpecFlowCalculator\SpecFlowCalculator\obj\Debug\net6.0\SpecFlowCalculator.csproj.AssemblyReference.cache
+C:\Users\38595\source\repos\Matej989\SpecFlowCalculator\SpecFlowCalculator\obj\Debug\net6.0\SpecFlowCalculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\38595\source\repos\Matej989\SpecFlowCalculator\SpecFlowCalculator\obj\Debug\net6.0\SpecFlowCalculator.AssemblyInfoInputs.cache
+C:\Users\38595\source\repos\Matej989\SpecFlowCalculator\SpecFlowCalculator\obj\Debug\net6.0\SpecFlowCalculator.AssemblyInfo.cs
+C:\Users\38595\source\repos\Matej989\SpecFlowCalculator\SpecFlowCalculator\obj\Debug\net6.0\SpecFlowCalculator.csproj.CoreCompileInputs.cache
+C:\Users\38595\source\repos\Matej989\SpecFlowCalculator\SpecFlowCalculator\obj\Debug\net6.0\SpecFlowCalculator.dll
+C:\Users\38595\source\repos\Matej989\SpecFlowCalculator\SpecFlowCalculator\obj\Debug\net6.0\refint\SpecFlowCalculator.dll
+C:\Users\38595\source\repos\Matej989\SpecFlowCalculator\SpecFlowCalculator\obj\Debug\net6.0\SpecFlowCalculator.pdb
+C:\Users\38595\source\repos\Matej989\SpecFlowCalculator\SpecFlowCalculator\obj\Debug\net6.0\ref\SpecFlowCalculator.dll
+C:\Users\38595\source\repos\Matej989\SpecFlowCalculator\SpecFlowCalculator\bin\Debug\net6.0\LivingDoc.Dtos.dll
+C:\Users\38595\source\repos\Matej989\SpecFlowCalculator\SpecFlowCalculator\bin\Debug\net6.0\LivingDoc.SpecFlowPlugin.dll

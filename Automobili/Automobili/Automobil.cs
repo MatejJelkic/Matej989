@@ -35,9 +35,25 @@ namespace Automobili
             else
                 return OsnovnaCijena * 1.5;
         }
+        public class GodinaProizvodnjeEventArgs : EventArgs
+{
+         public int StaraGodinaProizvodnje { get; set; }
+         public int NovaGodinaProizvodnje { get; set; }
+}
 
-        public EventArgs NaPromjenuGodineProizvodnje;
+        public event EventHandler<GodinaProizvodnjeEventArgs> NaPromjenuGodineProizvodnje;
 
+
+        public void GodinaProizvodnje_(int value)
+        {
+            int staraGodinaProizvodnje = _GodinaProizvodnje;
+            _GodinaProizvodnje = value;
+            NaPromjenuGodineProizvodnje?.Invoke(this, new GodinaProizvodnjeEventArgs()
+            {
+                StaraGodinaProizvodnje = staraGodinaProizvodnje,
+                NovaGodinaProizvodnje = value
+            });
+        }
         public void IspisAutomobila()
         {
             Console.WriteLine("Naziv: " + Naziv);
